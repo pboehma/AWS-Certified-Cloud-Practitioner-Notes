@@ -9,6 +9,7 @@
 | AWS Lambda |  | service to run code without need to provision and manage servers, serverless computing |
 | ECS | Elastic Container Service | run,scale containerized apps on AWS, supports Docker containers |
 | EKS | Elastic Kubernetes Service | run Kubernetes on AWS, deploy and manage containerized apps |
+| ECR | Elastic Container Registry |fully managed container registry|
 | AWS Fargate |  | serverless compute engine for containers, works for ECS and EKS |
 | AWS Braket |  | quantum computing platform |
 | AZ | Availability Zone | single/group data center(s) within a region |
